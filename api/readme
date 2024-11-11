@@ -1,0 +1,17 @@
+## API
+(Application programming Interface)
+
+Definition: Explain that an API is a set of rules and protocols for building and interacting with softeware applications. It allows different software systems to communicate with each other. 
+
+
+
+--REST APIs (Representational State Transfer) - Flask, Fast api
+SOAP APIs (Simple Object Access Protocol)
+GrapghQL APIs
+RPC APIs (Remote Procedure Call)
+Webhooks
+Partner APIs
+Internal APIs
+Composite APIs
+--Library-based APIs
+Open APIs (Public APIs)
